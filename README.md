@@ -25,6 +25,7 @@ https://www.xunjieshipin.com/products
 #### ScreenToGif  完全免费的GIF动图录制神器 
 网址：https://www.screentogif.com/downloads
 #### 360安全浏览器自带录屏
+![image](https://github.com/luosader/toutiao/blob/master/MultiMedia/360browserMakeVideo.jpg)
 ![image](https://github.com/luosader/toutiao/blob/master/MultiMedia/360browserMakeVideo.png)
 
 #### FSCapture  小巧且实用的抓屏工具
