@@ -19,11 +19,11 @@ http://www.pcgeshi.com/download.html
 #### Potplayer 神级视频播放器
 
 #### 迅捷屏幕录像工具
-https://www.xunjieshipin.com
+https://www.xunjieshipin.com/products
 #### 屏幕录制专家
 ./MultiMedia/屏幕录制专家
 #### ScreenToGif  完全免费的GIF动图录制神器 
-网址：https://www.screentogif.com/
+网址：https://www.screentogif.com/downloads
 
 #### FSCapture  小巧且实用的抓屏工具
 网址：https://faststone-capture.en.softonic.com/ 
