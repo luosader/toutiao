@@ -15,13 +15,13 @@ https://www.ghisler.com/amazons3.php
 http://www.pcgeshi.com/download.html
 
 #### MPC-HC x64  非常轻量级的开源媒体万能播放器。
-./MPC-HC
+./MultiMedia/MPC-HC
 #### Potplayer 神级视频播放器
 
 #### 迅捷屏幕录像工具
 https://www.xunjieshipin.com
 #### 屏幕录制专家
-./屏幕录制专家
+./MultiMedia/屏幕录制专家
 #### ScreenToGif  完全免费的GIF动图录制神器 
 网址：https://www.screentogif.com/
 
