@@ -31,7 +31,7 @@ https://www.xunjieshipin.com/products
 #### FSCapture  小巧且实用的抓屏工具
 网址：https://faststone-capture.en.softonic.com/ 
 #### Snipaste
-https://www.snipaste.com/download.html
+https://zh.snipaste.com/download.html
 #### ShareX
 https://getsharex.com/
 
