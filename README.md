@@ -46,18 +46,25 @@ https://zhuanlan.zhihu.com/p/92048213
 [下载]
 #### Vagaa哇嘎  资源下载神器
 #### NDM  媲美idm的下载器
+http://www.neatdownloadmanager.com/index.php/en
 #### QQ空间导出助手
 
 [个性化]
 #### Dexpot  虚拟桌面
 https://www.dexpot.de/?id=download
 #### 小黄条  便利贴
+http://www.yynote.cn/
 #### QuickLook  快速预览神器
 #### Quicker  快捷面板，通过鼠标中键就能呼出快捷面板。
+https://www.getquicker.net/Download
 #### StrokesPlus  鼠标手势工具
+https://www.strokesplus.com/
 #### Windowstabs  多标签工具
+http://windowtabs.com/
+https://zhuanlan.zhihu.com/p/64850605  http://cn.ejie.me/
 
 #### 逍遥模拟器  Virtualbox虚拟技术典型代表
+https://www.xyaz.cn/
 
 [防护]
 #### CCleaner  系统清理工具，一款免费的系统优化和隐私保护工具（非开源）
@@ -70,12 +77,17 @@ https://www.dexpot.de/?id=download
 网址：http://www.ffcell.com/
 
 #### TeamViewer  远程控制软件
+https://www.teamviewer.cn/cn/download/
 #### Xmind  思维导图
+https://www.xmind.cn/download/
 #### PE工具箱  系统维护工具箱
+https://www.tongyongpe.com/download/
 
 [工具箱]
 #### PowerToys  微软官方工具集
+https://microsoft-powertoys.en.softonic.com/
 #### uTools  小功能集合 开发人员
+http://www.u.tools/
 #### System Box  windows系统工具箱
 下载链接：https://pan.baidu.com/s/13Qr15iIC93rUuwru1WXjoQ 提取码：wszm  
 哈勃查毒连接：
