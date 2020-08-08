@@ -45,8 +45,10 @@ https://zhuanlan.zhihu.com/p/92048213
 
 [下载]
 #### Vagaa哇嘎  资源下载神器
-#### NDM  媲美idm的下载器
-http://www.neatdownloadmanager.com/index.php/en
+#### NDM  媲美idm的下载器 
+官方下载：http://www.neatdownloadmanager.com/index.php/en
+教程：https://jingyan.baidu.com/article/b24f6c82ed09fec7bfe5daf3.html
+    需要添加至Chrome或者Firefox浏览器扩展，连VPN。
 #### QQ空间导出助手
 
 [个性化]
