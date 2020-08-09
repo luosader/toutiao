@@ -2,6 +2,7 @@
 Standing outside assistance
 
 [软件下载] 基本都是官网
+
 #### Everything  全盘文件搜索工具
 https://www.voidtools.com/zh-cn/downloads/
 
@@ -29,7 +30,7 @@ https://www.xunjieshipin.com/products
 ![image](https://github.com/luosader/toutiao/blob/master/MultiMedia/360browserMakeVideo.png)
 
 #### FSCapture  小巧且实用的抓屏工具
-网址：https://faststone-capture.en.softonic.com/ 
+官方网址：https://faststone-capture.en.softonic.com/ 
 #### Snipaste
 https://zh.snipaste.com/download.html
 #### ShareX
@@ -62,24 +63,26 @@ https://www.getquicker.net/Download
 #### StrokesPlus  鼠标手势工具
 https://www.strokesplus.com/
 #### Windowstabs  多标签工具
-http://windowtabs.com/
-https://zhuanlan.zhihu.com/p/64850605  http://cn.ejie.me/
+官方地址：http://windowtabs.com/
+使用教程：https://zhuanlan.zhihu.com/p/64850605  http://cn.ejie.me/
 
 #### 逍遥模拟器  Virtualbox虚拟技术典型代表
 https://www.xyaz.cn/
 
 [防护]
 #### CCleaner  系统清理工具，一款免费的系统优化和隐私保护工具（非开源）
+https://www.ccleaner.com/ccleaner
 #### ADsafe  净网大师，强力有效的广告拦截器
 #### DirectX  修复工具，修复各种丢失的动态库
 #### Iris Pro  多功能专业的护眼软件，减少蓝光辐射
 
 [其它]
 #### 方方格子  超好用的Excel插件 
-网址：http://www.ffcell.com/
+官方网址：http://www.ffcell.com/
 
 #### TeamViewer  远程控制软件
-https://www.teamviewer.cn/cn/download/
+官方下载：https://www.teamviewer.cn/cn/download/
+安装教程：https://blog.csdn.net/u011020636/article/details/104391084/
 #### Xmind  思维导图
 https://www.xmind.cn/download/
 #### PE工具箱  系统维护工具箱
