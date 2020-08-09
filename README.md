@@ -36,7 +36,7 @@ https://zh.snipaste.com/download.html
 #### ShareX
 https://getsharex.com/
 
-#### 洋芋田图像工具箱
+#### 洋芋田图像工具箱  水印/拼接/裁剪/分割/富文本/尺寸/压缩/转换/EXIF/取色器/字体
 https://imagetoolkit.potatofield.cn/history
 #### Picosmos Capture  图片管理软件
 
