@@ -52,6 +52,12 @@ https://zhuanlan.zhihu.com/p/92048213
     需要添加至Chrome或者Firefox浏览器扩展，连VPN。
 #### QQ空间导出助手
 
+[办公]
+#### 方方格子  超好用的Excel插件 
+官方网址：http://www.ffcell.com/
+#### Xmind  思维导图
+https://www.xmind.cn/download/
+
 [个性化]
 #### Dexpot  虚拟桌面
 https://www.dexpot.de/?id=download
@@ -66,25 +72,24 @@ https://www.strokesplus.com/
 官方地址：http://windowtabs.com/
 使用教程：https://zhuanlan.zhihu.com/p/64850605  http://cn.ejie.me/
 
+[控制]
 #### 逍遥模拟器  Virtualbox虚拟技术典型代表
 https://www.xyaz.cn/
+#### TeamViewer  远程控制软件
+官方下载：https://www.teamviewer.cn/cn/download/
+安装教程：https://blog.csdn.net/u011020636/article/details/104391084/
+#### Total Control  电脑控制手机
+http://tc.sigma-rt.com.cn/
+#### 360手机助手  
 
 [防护]
 #### CCleaner  系统清理工具，一款免费的系统优化和隐私保护工具（非开源）
 https://www.ccleaner.com/ccleaner
 #### ADsafe  净网大师，强力有效的广告拦截器
-#### DirectX  修复工具，修复各种丢失的动态库
 #### Iris Pro  多功能专业的护眼软件，减少蓝光辐射
 
-[其它]
-#### 方方格子  超好用的Excel插件 
-官方网址：http://www.ffcell.com/
-
-#### TeamViewer  远程控制软件
-官方下载：https://www.teamviewer.cn/cn/download/
-安装教程：https://blog.csdn.net/u011020636/article/details/104391084/
-#### Xmind  思维导图
-https://www.xmind.cn/download/
+[系统]
+#### DirectX  修复工具，修复各种丢失的动态库
 #### PE工具箱  系统维护工具箱
 https://www.tongyongpe.com/download/
 
