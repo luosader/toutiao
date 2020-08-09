@@ -85,6 +85,7 @@ http://tc.sigma-rt.com.cn/
 [防护]
 #### CCleaner  系统清理工具，一款免费的系统优化和隐私保护工具（非开源）
 https://www.ccleaner.com/ccleaner
+    ccleaner补强插件：CCEnhancer（增强CCleaner的功能）
 #### ADsafe  净网大师，强力有效的广告拦截器
 #### Iris Pro  多功能专业的护眼软件，减少蓝光辐射
 
