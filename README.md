@@ -61,6 +61,10 @@ https://www.xmind.cn/download/
 [个性化]
 #### Dexpot  虚拟桌面
 https://www.dexpot.de/?id=download
+#### virgo 虚拟桌面
+下载链接：https://github.com/papplampe/virgo/releases/download/v.1.4.2/virgo.zip
+使用教程：https://blog.csdn.net/karmacode/article/details/83661987
+
 #### 小黄条  便利贴
 http://www.yynote.cn/
 #### QuickLook  快速预览神器
