@@ -14,6 +14,8 @@ https://www.ghisler.com/amazons3.php
 
 #### 格式工厂  非常全面的老牌多媒体格式转换器。
 http://www.pcgeshi.com/download.html
+#### 万兴优转
+https://uniconverter.wondershare.cn/
 
 #### MPC-HC x64  非常轻量级的开源媒体万能播放器。
 ./MultiMedia/MPC-HC
